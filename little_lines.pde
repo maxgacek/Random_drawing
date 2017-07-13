@@ -1,4 +1,4 @@
-//by Max Gacek 24.01.2017
+//by Max Gacek 03.02.2017
 
 
 int many=150;
